@@ -1,0 +1,48 @@
+.text {
+    display: flex; 
+    align-items: center; 
+    justify-content: flex-start;
+    margin: 20px 0; 
+
+
+    }
+.text input {
+    padding: 10px; 
+    border: 1px solid #ccc; 
+    border-radius: 10px;
+    margin-right: 10px; 
+    margin-left: 650px;
+    flex: 0; 
+}
+.task2 {
+    margin: 20px auto; 
+    padding: 20px;
+}
+
+.task-box {
+    padding: 10px; 
+    margin: 10px 650px; 
+    border: 1px solid #28a745; 
+    border-radius: 10px; 
+    background-color: #f9f9f9;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    
+}
+
+.my-button{
+    border-radius: 10px;
+    background-color: #28a745;
+    padding: 10px 20px;
+    cursor: pointer;
+    color: #fff;
+}
+
+.del{
+    border-radius: 10px;
+    background-color: #da1d23;
+    padding: 10px 20px;
+    cursor: pointer;
+    color: #fff;
+    align-items: end;
+}
+
